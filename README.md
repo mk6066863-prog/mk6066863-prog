@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Muskan Saini
 
-<!--
-**mk6066863-prog/mk6066863-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about turning data into insights and solving real-world business problems.
+
+---
+
+## 🚀 Skills
+
+- SQL
+- Python
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## 📂 Projects
+
+📺 YouTube Data Analytics Dashboard
+
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/muskan-saini-3b4b662a5
+
+📧 Email: mk6066863@gmail.com
