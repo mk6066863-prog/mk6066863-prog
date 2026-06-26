@@ -37,6 +37,6 @@
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: www.linkedin.com/in/muskan-saini-3b4b662a5
+🔗 LinkedIn: https://www.linkedin.com/in/muskan-saini006
 
 📧 Email: mk6066863@gmail.com
